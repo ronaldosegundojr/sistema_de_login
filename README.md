@@ -1,19 +1,18 @@
 ## sistema_de_login
- A Simple Login Sistem with Python
+ Um sistema simples de login utilizando Python, feito para estudo da linguagem.
+ 
 <p align="center">
   <a href="#">
-    <img align="center" width="450" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+    <img align="center" width="450" src="https://github.com/ronaldosegundojr/sistema_de_login/blob/main/Janela.jpg?raw=true" />
   </a>
 </p>
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldosegundojr&layout=compact"
+      src="https://github.com/ronaldosegundojr/sistema_de_login/blob/main/Sucesso.jpg?raw=true"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   </a>
 </p>
